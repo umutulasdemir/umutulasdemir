@@ -37,8 +37,8 @@
 #
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umutulasdemir&theme=dark&hide_border=true&background=000000" alt="GitHub Streak" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=umutulasdemir&show_icons=true&count_private=true&hide=issues&theme=dark&hide_border=true&bg_color=000000" alt="GitHub Stats" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umutulasdemir&theme=dark&hide_border=true&background=000000" alt="GitHub Streak" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=umutulasdemir&show_icons=true&count_private=true&hide=issues&theme=dark&hide_border=true&bg_color=000000" alt="GitHub Stats" height="155"/>
 </p>
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/umut-ulaş-demir-3769a51bb/)
